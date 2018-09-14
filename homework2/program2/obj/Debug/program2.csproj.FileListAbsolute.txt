@@ -1,7 +1,0 @@
-E:\C#-workspace\homework2\program2\bin\Debug\program2.exe.config
-E:\C#-workspace\homework2\program2\bin\Debug\program2.exe
-E:\C#-workspace\homework2\program2\bin\Debug\program2.pdb
-E:\C#-workspace\homework2\program2\obj\Debug\program2.csprojAssemblyReference.cache
-E:\C#-workspace\homework2\program2\obj\Debug\program2.csproj.CoreCompileInputs.cache
-E:\C#-workspace\homework2\program2\obj\Debug\program2.exe
-E:\C#-workspace\homework2\program2\obj\Debug\program2.pdb

@@ -28,7 +28,6 @@ namespace OEF
             //List<Order> orders = orderService.QueryByCustormer("zouxin1");
             //orders.ForEach(
              // o => Console.WriteLine($"{o.Id},{o.Customer}"));
-
         }
     }
 }
